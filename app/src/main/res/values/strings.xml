@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sensor Checker</string>
+    <string name="title_home">List Sensor</string>
+    <string name="title_dashboard">Device</string>
+    <string name="title_notifications">About</string>
+    <string name="tvSupport"><b>Support</b></string>
+    <string name="tvSensor"><b>Nama Sensor</b></string>
+</resources>
